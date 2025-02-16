@@ -1,0 +1,2 @@
+[ ] Stop using pencils, switch to markdown
+[x] Rob the bank
